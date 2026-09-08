@@ -1,41 +1,34 @@
 ## À propos de moi
 
-Actuellement étudiant en Master Finance, je m'intéresse particulièrement à la
-finance d'entreprise, à l'analyse financière et à l'utilisation des outils
-quantitatifs pour résoudre des problématiques financières.
+Actuellement en Master 2 Économie et Finance en double diplôme avec emlyon business school, je me spécialise en finance d'entreprise, modélisation financière et analyse stratégique.
 
-À travers mes projets académiques, je développe mes compétences en modélisation
-financière, analyse de données et programmation Python.
+À travers mes expériences et projets académiques, je développe ma technique de modélisation sous Excel tout en utilisant Python pour automatiser, structurer et approfondir le traitement des vastes jeux de données financières.
 
 ## 🛠️ Compétences
 
-- **Finance :** analyse financière, finance d'entreprise, gestion d'actifs
-- **Programmation :** Python
-- **Analyse de données :** Pandas, NumPy
-- **Visualisation :** Matplotlib, Seaborn
-- **Statistiques & économétrie :** SciPy, Statsmodels
-- **Finance de marché :** analyse technique, volatilité, corrélation, régression
-- **Modélisation financière :** Excel, business plan, prévisions financières
+- **Corporate Finance & Audit :** Analyse financière, structuration, évaluation d'entreprise, due diligence.
+- **Modélisation Financière :** Excel avancé (business plans, modélisation de scénarios, flux de trésorerie, analyse de rentabilité).
+- **Programmation & Data :** Python (Pandas, NumPy, SciPy, Statsmodels).
+- **Visualisation :** Matplotlib, Seaborn, conception de dashboards interactifs.
+- **Finance de Marché & Macroéconomie :** Analyse des taux, volatilité, corrélations, régressions statistiques.
 
 ## 📂 Projets
 
 ### 📊 [Analyse macroéconomique & simulation de crédit](https://github.com/m-benameur/analyse-macro-economique-simulation-credit)
 
-Analyse de la relation entre l'inflation et les taux directeurs de la BCE,
-accompagnée du développement d'un simulateur de crédit en Python.
+- Étude économétrique de la relation entre l'inflation et les taux directeurs de la BCE.
+- Développement d'une fonction de simulation de crédit en **Python**.
 
 ### 📈 [Analyse technique du CAC 40 & VIX](https://github.com/m-benameur/analyse-technique-cac40-vix)
 
-Dashboard d'analyse financière intégrant indicateurs techniques, volatilité,
-corrélation, détection des périodes de stress et régression statistique.
+- Création d'un outil d'analyse financière sous **Jupyter (Python)** traitant 10 ans de données historiques.
+- Étude de la volatilité, corrélation, détection des périodes de stress de marché et régressions statistiques.
 
 ### 💼 [Business Plan — Implantation d'un nouveau service](https://github.com/m-benameur/business-plan-implantation-nouveau-service)
 
-Élaboration d'un business plan sous Excel avec analyse de plusieurs scénarios,
-prévisions financières, plan de financement, trésorerie et analyse de rentabilité.
+- Élaboration d'un modèle financier complet sous **Excel**.
+- Construction de business plan, analyse de sensibilité multi-scénarios, prévisions financières et plan de financement.
 
 ## 🎯 Objectif
 
-Développer mes compétences en finance et en analyse quantitative à travers des
-projets concrets, et mettre ces compétences au service de problématiques
-financières et économiques.
+À la recherche d'un stage de fin d'études de Master 2 en M&A, Transaction Services ou Private Equity. Mon ambition est de mettre ma double compétence en finance d'entreprise et en analyse quantitative au service d'opérations stratégiques, de due diligences et de modélisations financières exigeantes.
