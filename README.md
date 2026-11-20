@@ -24,7 +24,7 @@ Actuellement en Master 2 Économie et Finance en double diplôme avec emlyon bus
 - Création d'un outil d'analyse financière sous **Jupyter (Python)** traitant 10 ans de données historiques.
 - Étude de la volatilité, corrélation, détection des périodes de stress de marché et régressions statistiques.
 
-### 💼 [Business Plan — Implantation d'un nouveau service](https://github.com/m-benameur/business-plan-implantation-nouveau-service)
+### 💼 [Business Plan - Implantation d'un nouveau service](https://github.com/m-benameur/business-plan-implantation-nouveau-service)
 
 - Élaboration d'un modèle financier complet sous **Excel**.
 - Construction de business plan, analyse de sensibilité multi-scénarios, prévisions financières et plan de financement.
